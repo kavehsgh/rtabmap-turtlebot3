@@ -1,7 +1,10 @@
 # rtab-map-turtlebot3
 This is a simple tutorial for those who need to practice with ROS and Gazebo simulator. Also you can learn a little about SLAM and [RTAB-Map](http://introlab.github.io/rtabmap/) algorithims.
 
-<img src="<img src="https://github.com/kavehsgh/rtabmap-turtlebot3/blob/main/Pictures/Screenshot%20(200).png">>
+Here is the Youtube Link.
+(LINK)
+
+<img src="https://github.com/kavehsgh/rtabmap-turtlebot3/blob/main/Pictures/Screenshot%20(200).png">
 
 
 ## How to Start
