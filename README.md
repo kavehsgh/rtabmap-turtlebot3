@@ -4,6 +4,8 @@ This is a simple tutorial for those who need to practice with ROS and Gazebo sim
 ## How to Start
 
 ROS version: Noetic
+
 OS: Ubuntu 20.4
+
 Gazebo Version: 11
 
