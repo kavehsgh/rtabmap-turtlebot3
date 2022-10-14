@@ -9,3 +9,5 @@ OS: Ubuntu 20.4
 
 Gazebo Version: 11
 
+I am assuming you did install [ROS](http://wiki.ros.org/noetic/Installation) and [Gazebo](https://classic.gazebosim.org/).
+
