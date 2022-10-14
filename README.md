@@ -13,5 +13,11 @@ Gazebo Version: 11
 
 I am assuming that you did install [ROS](http://wiki.ros.org/noetic/Installation) and [Gazebo](https://classic.gazebosim.org/).
 
+## Step 1 - installing required packages
+
+First we start from installing some ros packages.
+'''
+some code dfkjgnodflkbn;odfalbkn;dflkb
+'''
 
 
