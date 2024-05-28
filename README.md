@@ -28,4 +28,21 @@ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
 ```
 
+## Step 2 - installing Turtlebot3 related packages
+
+```
+sudo apt install ros-noetic-turtlebot3-simulations ros-noetic-turtlebot3-navigation ros-noetic-dwa-local-planner
+```
+
+## Step 2 - Launch the simulation
+
+```
+export TURTLEBOT3_MODEL=waffle
+roslaunch turtlebot3_gazebo turtlebot3_house.launch
+```
+In another terminal tab:
+```
+export TURTLEBOT3_MODEL=waffle
+roslaunch rtabmap_ros demo_turtlebot3_navigation.launch
+```
 
