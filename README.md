@@ -45,5 +45,5 @@ In another terminal tab:
 export TURTLEBOT3_MODEL=waffle
 roslaunch rtabmap_ros demo_turtlebot3_navigation.launch
 ```
-If there are errors you have to find a missing package that you did not installed successfully.
+If there are errors you have to find a missing package that you did not install successfully. Feel free to open an issue if you have any questions.
 
