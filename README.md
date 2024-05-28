@@ -34,7 +34,7 @@ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
 sudo apt install ros-noetic-turtlebot3-simulations ros-noetic-turtlebot3-navigation ros-noetic-dwa-local-planner
 ```
 
-## Step 2 - Launch the simulation
+## Step 3 - Launch the simulation
 
 ```
 export TURTLEBOT3_MODEL=waffle
@@ -45,4 +45,5 @@ In another terminal tab:
 export TURTLEBOT3_MODEL=waffle
 roslaunch rtabmap_ros demo_turtlebot3_navigation.launch
 ```
+If there are errors you have to find a missing package that you did not installed successfully.
 
